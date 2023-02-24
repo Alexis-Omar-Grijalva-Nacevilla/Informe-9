@@ -47,7 +47,11 @@ CAPITULO 18
 
 CAPÍTULO 17
 
+
+
 PARTE 1: CIRCUITOS EN SERIE
+
+SECCIÓN 17–1 Impedancia de circuitos RLC en serie
 
 ![image](https://user-images.githubusercontent.com/117738904/221206922-d04df218-2152-4215-aac1-e351f7d31adb.png)
 
@@ -147,9 +151,34 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 ![image](https://user-images.githubusercontent.com/117738904/221211279-2f7f8d42-56e4-4e85-a6c3-98e929e8b38b.png)
 
+4. VIDEO
+
+5. CONCLUSIONES
+
+•	En un circuito RLC en serie, la corriente es máxima en condición de resonancia
+
+•	Los voltajes reactivos VL y VC se eliminan en condición de resonancia en un circuito RLC en serie porque son iguales en magnitud y están desfasados por 180°.
+
+•	La impedancia de un circuito RLC es puramente resistiva en condición de resonancia
+
+•	En un filtro RC pasaaltas, la salida se toma a través del resistor y la salida se adelanta a la entrada.  
+
+•	En un filtro RL pasaaltas, la salida se toma a través del inductor y la salida se adelanta a la entrada. 
+
+•	La pendiente decreciente de un filtro RC o RL es de –20 dB por década. 
+
+•	Un filtro pasabanda deja pasar frecuencias localizadas entre las frecuencias críticas baja y alta y rechaza todas las demás.  
+
+
+6.  BIBLIOGRA
+
+Ingeniería Mecaénix. (20 de 02 de 2019). Recuperado el 24 de 02 de 2023, de https://www.ingmecafenix.com/electronica/el-capacitor/
+
+Mecatrónica LATAM. (23 de 04 de 2021). Recuperado el 24 de 02 de 2023, de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/
 
 
 
 
-SECCIÓN 17–1 Impedancia de circuitos RLC en serie
+
+
 
