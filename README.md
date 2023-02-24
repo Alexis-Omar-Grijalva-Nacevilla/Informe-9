@@ -157,6 +157,8 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 4. VIDEO
 
+https://www.youtube.com/watch?v=WXCsO-6dhHU
+
 5. CONCLUSIONES
 
 •	En un circuito RLC en serie, la corriente es máxima en condición de resonancia
