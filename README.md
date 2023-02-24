@@ -38,8 +38,12 @@ FECHA: 25/02/2023
 
 CAPITULO  17
 
+![Análisis de ramas, lazos y nodos (1)](https://user-images.githubusercontent.com/117738904/221226417-84e8664a-6116-4cf4-8590-3911c5891070.png)
+
+
 CAPITULO 18
 
+![FILTROS PASIVOS](https://user-images.githubusercontent.com/117738904/221226452-f784026f-a55d-493e-80db-d413b6101b0e.png)
 
 
 
