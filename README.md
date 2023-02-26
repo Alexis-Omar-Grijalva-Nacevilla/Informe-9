@@ -16,7 +16,7 @@ DOCENTE: ING. DARWIN OMAR ALULEMA FLORES
 
 FECHA: 25/02/2023
 
-1. OBJEYIVOS
+1. OBJEIVOS 
 
 •	Analizar circuitos RLC en serie
 
